@@ -11,6 +11,6 @@ build/
 coverage.xml
 htmlcov/
 .env
-out/
-results/
+/out/
+/results/
 .DS_Store
